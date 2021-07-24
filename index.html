@@ -5,7 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
     <title>Project_2</title>
     <script src="https://d3js.org/d3.v5.min.js"></script>
@@ -19,8 +18,8 @@
         <div class="container">
           <h1 class="heading">Air Quality App</h1>
           <form>
-            <input type="text" placeholder="Search for a city" autofocus id="city">
-            <button type="button" id="searchBtn">SUBMIT</button>
+            <input id="inputAddress" type="text" placeholder="Enter Address, City or ZIP code" autofocus id="city">
+            <button id="submit_button" type="button" id="searchBtn">SUBMIT</button>
             <span class="msg"></span>
           </form>
         </div>
