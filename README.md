@@ -5,6 +5,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About: Air Quality Dashboard Application
 
+The files contain: 
+1. first item
+2. second item 
 
 ### Built With 
 
