@@ -6,11 +6,12 @@
 ## About: Air Quality Dashboard Application
 Air Quality Dashboard is simple python application (with an upcoming front-end webpage) that helps users avoid air pollution by:
 * gives a 48 hour forecast of air quality and UV-index
-* sses the best available data sources (Breezometer and Open Weather APIs) 
+* uses the best available data sources (Breezometer and Open Weather APIs) 
 
 The files contain: 
-1. first item
-2. second item 
+1. newapp.py (the python app written in Jupyter Notebooks)
+2. index.html (the front end dashboard that will eventually be used to
+3. static folder (contains the accompanying, JavaScript and CSS files that will be used in the front-end)
 
 ### Built With 
 
