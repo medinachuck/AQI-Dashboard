@@ -55,9 +55,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Isaac Medina - medina.chuck@gmail.com
 
 Project Link: [https://github.com/medinachuck/AQI-Dashboard](https://github.com/medinachuck/AQI-Dashboard)
-
-
-* [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
-* [Sticky Kit](http://leafo.net/sticky-kit)
-* [JVectorMap](http://jvectormap.com)
-* [Font Awesome](https://fontawesome.com)
