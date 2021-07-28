@@ -1,6 +1,11 @@
+<!-- Background -->
+## Background: Project Impetus and Reason
+An increasing number of scientific studies continue to underscore the relationship between human health and <strong> air quality </strong>. Recent estimates by the Natural Resources Defence Council (NRDC) say that air pollution costs the average american $2,500 dollars in healthcare costs each year [source](https://www.reuters.com/business/legal/air-pollution-costs-each-american-2500-year-healthcare-study-2021-05-21/). And alarmingly, recent studies have linked increased air pollution with an increase risk of developing dementia in older adults [source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0253253#sec012). The good news, however, is that improved air quality is also associated with better health outcomes including a reduced risk of dementia and alzheimers [source](https://www.aarp.org/health/dementia/info-2021/pollution-brain-health-connection.html). Given these facts I wanted to build an application that gives health conscious individuals a way to plan their outdoor activities, maximizing the benefit of being activce outdoors by reducing or minimizing exposure to outdoor air pollution.  
+
 <!-- ABOUT THE PROJECT -->
 ## About: Air Quality Dashboard Application
-An increasing number of scientific studies continue to underscore the relationship between human health and the <strong> air quality </strong> of the surrounding environment. Recent estimates by the Natural Resources Defence Council (NRDC) say that air pollution costs the average american $2,500 dollars in healthcare costs each year [link](https://www.reuters.com/business/legal/air-pollution-costs-each-american-2500-year-healthcare-study-2021-05-21/). And alarmingly, recent studies have linked increased air pollution with an increase risk of developing dementia in older adults [link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0253253#sec012).
+
+
 ### Built With 
 
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
