@@ -4,6 +4,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About: Air Quality Dashboard Application
+Air Quality Dashboard is simple python application (with an upcoming front-end webpage) that helps users plan the best time to do 
 
 The files contain: 
 1. first item
