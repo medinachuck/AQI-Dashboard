@@ -4,7 +4,9 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About: Air Quality Dashboard Application
-Air Quality Dashboard is simple python application (with an upcoming front-end webpage) that helps users plan the best time to do 
+Air Quality Dashboard is simple python application (with an upcoming front-end webpage) that helps users avoid air pollution by:
+*gives a 48 hour forecast of air quality and UV-index
+*Uses the best available data sources (Breezometer and Open Weather APIs) 
 
 The files contain: 
 1. first item
