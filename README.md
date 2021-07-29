@@ -27,7 +27,7 @@ The files contain:
 
 <!-- Demonstration -->
 ## Demo
-<img src="static/newapp_demo.gif" width="40" height="40" />
+![newapp_demo.gif](static/newapp_demo.gif)
 <!-- GETTING STARTED -->
 ## Getting Started
 The newappy.py file will work for any python 3+ user in Jupyter Notebooks. The only caveat is that API keys are not included and must be requested by the user at each respective API service.
